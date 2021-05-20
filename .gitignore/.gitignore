@@ -3,5 +3,12 @@ b=int(input(enter value:))
 c=int(input(enter value:))
 Sum=a+b+c
 Average=sum/3
-Print(sum)
-Print(average)
+Print(sum=)
+Print(average=)
+
+#output
+Enter value:20
+Enter value:10
+Enter value:30
+Sum=60
+Average=20
